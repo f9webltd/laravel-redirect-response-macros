@@ -15,4 +15,6 @@ namespace Illuminate\Http;
  * @method \Illuminate\Http\RedirectResponse authorized($message = null)
  * @method \Illuminate\Http\RedirectResponse unAuthorized($message = null)
  */
-class RedirectResponse {}
+class RedirectResponse
+{
+}
