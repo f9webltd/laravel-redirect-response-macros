@@ -208,11 +208,11 @@ The default message is `You do not have permission to perform that action`.
 
 ## IDE Autocompletion within PHPStorm
 
-Autocompletion of "macroable" classes with PHPStorm currently difficult. As great as macros are, there is no solution to enable autocompletion.
+Autocompletion of "macroable" classes with PHPStorm currently difficult, which is a shame given how useful macroable classes actually are.
 
-At present, the following process will allow for autocompletion:
+At present, the following process will trigger autocompletion in PHPStorm:
 
-- Copy `resources/_ide_helper_macros.php` to a location within your project to allow PHP storm to index the additional class methods
+- Copy [resources/_ide_helper_macros.php](resources/_ide_helper_macros.php) to a location within your project to allow PHP storm to index the additional class methods
 - Optionally add `_ide_helper_macros.php` to your `.gitignore` file
 
 ## Contribution
