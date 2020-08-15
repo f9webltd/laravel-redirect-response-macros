@@ -14,11 +14,11 @@ class LaravelRedirectResponseMacrosServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->loadTranslationsFrom(__DIR__.'/../resources/lang/', 'f9web-laravel-redirect-response-macros');
+        $this->loadTranslationsFrom(__DIR__ . '/../resources/lang/', 'f9web-laravel-redirect-response-macros');
 
         $this->publishes(
             [
-                __DIR__.'/../resources/lang' => resource_path('lang/vendor/f9web-laravel-redirect-response-macros'),
+                __DIR__ . '/../resources/lang' => resource_path('lang/vendor/f9web-laravel-redirect-response-macros'),
             ]
         );
 
