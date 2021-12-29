@@ -1,7 +1,8 @@
+![](https://banners.beyondco.de/Laravel%20Redirect%20Response%20Macros.png?theme=light&packageManager=composer+require&packageName=f9webltd%2Flaravel-redirect-response-macros&pattern=brickWall&style=style_1&description=Some+super+useful+redirect+response+macros+to+simplify+your+Laravel+application&md=1&showWatermark=0&fontSize=100px&images=code)
+
+
 [![Packagist Version](https://img.shields.io/packagist/v/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://packagist.org/packages/f9webltd/laravel-redirect-response-macros)
-[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/f9webltd/laravel-redirect-response-macros/master?style=flat-square)](https://scrutinizer-ci.com/g/f9webltd/laravel-redirect-response-macros/?branch=master)
-[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://scrutinizer-ci.com/g/f9webltd/laravel-redirect-response-macros/?branch=master)
-![Travis (.org)](https://travis-ci.com/f9webltd/laravel-redirect-response-macros.svg?branch=master&status=passed)
+[![run-tests-laravel-8](https://img.shields.io/github/workflow/status/f9webltd/laravel-redirect-response-macros/run-tests-laravel-8?style=flat-square)](https://github.com/f9webltd/laravel-redirect-response-macros/actions)
 [![StyleCI Status](https://github.styleci.io/repos/278581318/shield)](https://github.styleci.io/repos/278581318)
 [![Packagist License](https://img.shields.io/packagist/l/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://packagist.org/packages/f9webltd/laravel-redirect-response-macros)
 
