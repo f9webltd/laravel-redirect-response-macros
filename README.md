@@ -12,7 +12,7 @@ Some super useful redirect response macros to simplify your Laravel application.
 
 ## Requirements
 
-PHP >= 7.2, Laravel >= 5.8.
+Laravel `>=5.8 | 6.x | 7.x | 8.x | 9.x | 10.x` supported
 
 ## Installation
 
