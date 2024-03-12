@@ -12,7 +12,12 @@ Some super useful redirect response macros to simplify your Laravel application.
 
 ## Requirements
 
-Laravel `>=5.8 | 6.x | 7.x | 8.x | 9.x | 10.x` supported
+- PHP `^8.0`
+- Laravel `^8.12`, `^9.0`, `^10.0` or `^11.0`
+
+### Legacy Support
+
+For legacy PHP / Laravel support, use package version [`1.1.6`](https://github.com/f9webltd/laravel-redirect-response-macros/tree/1.1.6)
 
 ## Installation
 
