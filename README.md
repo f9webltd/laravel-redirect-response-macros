@@ -2,7 +2,7 @@
 
 
 [![Packagist Version](https://img.shields.io/packagist/v/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://packagist.org/packages/f9webltd/laravel-redirect-response-macros)
-[![run-tests-laravel-8](https://img.shields.io/github/workflow/status/f9webltd/laravel-redirect-response-macros/run-tests-laravel-8?style=flat-square)](https://github.com/f9webltd/laravel-redirect-response-macros/actions)
+[![Run Tests](https://github.com/f9webltd/laravel-redirect-response-macros/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/f9webltd/laravel-redirect-response-macros/actions/workflows/run-tests.yml)
 [![StyleCI Status](https://github.styleci.io/repos/278581318/shield)](https://github.styleci.io/repos/278581318)
 [![Packagist License](https://img.shields.io/packagist/l/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://packagist.org/packages/f9webltd/laravel-redirect-response-macros)
 
