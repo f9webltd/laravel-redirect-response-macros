@@ -47,7 +47,7 @@ class MessageTest extends TestCase
         }
     }
 
-    public function responseData(): array
+    public static function responseData(): array
     {
         return [
             [
