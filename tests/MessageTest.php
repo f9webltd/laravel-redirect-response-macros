@@ -11,15 +11,9 @@ use function resolve;
 class MessageTest extends TestCase
 {
     /**
-     * @param  string  $method
-     * @param  string  $sessionKey
-     * @param  string  $expectedMessage
-     * @param  string|null  $arguments
-     *
-     * @test
      * @dataProvider responseData
      */
-    public function it_renders_expected_flash_data(
+    public function test_it_renders_expected_flash_data(
         string $method,
         string $sessionKey,
         string $expectedMessage,
@@ -35,8 +29,7 @@ class MessageTest extends TestCase
         );
     }
 
-    /** @test */
-    public function it_renders_exception_object_messages()
+    public function test_it_renders_exception_object_messages()
     {
         $exception = new Exception($message = 'Holy Rheostat!');
 
