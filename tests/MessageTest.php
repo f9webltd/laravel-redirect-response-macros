@@ -5,14 +5,13 @@ declare(strict_types=1);
 namespace F9Web\LaravelRedirectResponseMacros\Tests;
 
 use Exception;
+use PHPUnit\Framework\Attributes\DataProvider;
 
 use function resolve;
 
 class MessageTest extends TestCase
 {
-    /**
-     * @dataProvider responseData
-     */
+    #[DataProvider('responseData')]
     public function test_it_renders_expected_flash_data(
         string $method,
         string $sessionKey,
