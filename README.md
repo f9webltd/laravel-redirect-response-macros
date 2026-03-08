@@ -1,6 +1,6 @@
 ![](https://banners.beyondco.de/Laravel%20Redirect%20Response%20Macros.png?theme=light&packageManager=composer+require&packageName=f9webltd%2Flaravel-redirect-response-macros&pattern=brickWall&style=style_1&description=Some+super+useful+redirect+response+macros+to+simplify+your+Laravel+application&md=1&showWatermark=0&fontSize=100px&images=code)
 
-
+[![PHP ^8.2](https://img.shields.io/badge/php-%5E8.2-brightgreen)]()
 [![Packagist Version](https://img.shields.io/packagist/v/f9webltd/laravel-redirect-response-macros?style=flat-square)](https://packagist.org/packages/f9webltd/laravel-redirect-response-macros)
 [![Run Tests](https://github.com/f9webltd/laravel-redirect-response-macros/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/f9webltd/laravel-redirect-response-macros/actions/workflows/run-tests.yml)
 [![StyleCI Status](https://github.styleci.io/repos/278581318/shield)](https://github.styleci.io/repos/278581318)
@@ -12,12 +12,14 @@ Some super useful redirect response macros to simplify your Laravel application.
 
 ## Requirements
 
-- PHP `^8.0`
-- Laravel `^8.12`, `^9.0`, `^10.0`, `^11.0` or `^12.0`
+* PHP `^8.2`
+* Laravel `^11.0` / `^12.0` / `^13.0`
+
+The package supports actively supported Laravel releases as per the official [Laravel Support Policy](https://laravel.com/docs/master/releases#support-policy).
 
 ### Legacy Support
 
-For legacy PHP / Laravel support, use package version [`1.1.6`](https://github.com/f9webltd/laravel-redirect-response-macros/tree/1.1.6)
+For legacy PHP / Laravel support, use package version [`2.1.0`](https://github.com/f9webltd/laravel-redirect-response-macros/tree/2.1.0)
 
 ## Installation
 
@@ -238,6 +240,7 @@ If you discover any security related issues, please email rob@f9web.co.uk instea
 ## Credits
 
 - [Rob Allport](https://github.com/ultrono) for [F9 Web Ltd.](https://www.f9web.co.uk)
+- [All Contributors](https://github.com/f9webltd/laravel-response-macros/graphs/contributors)
 
 ## License
 
